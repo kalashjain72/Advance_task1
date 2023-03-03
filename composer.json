@@ -1,0 +1,17 @@
+{
+    "name": "kalash-jain/php_in_action",
+    "autoload": {
+        "psr-4": {
+            "KalashJain\\PhpInAction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kalashjain72",
+            "email": "kalashjain72@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
